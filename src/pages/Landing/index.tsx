@@ -9,6 +9,7 @@ import purpleHeartIcon from '../../assets/images/icons/purple-heart.svg';
 
 import './styles.css';
 
+
 function Landing() {
     return (
         <div id="page-landing">
